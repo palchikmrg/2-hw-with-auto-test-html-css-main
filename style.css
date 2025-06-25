@@ -125,6 +125,7 @@ select {
 
 table {
     /* Стили для таблицы */
+    border-collapse: collapse;
     border: 1px solid #95a1bb;
     font-weight: 700;
     font-size: 14px;
